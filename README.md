@@ -1,2 +1,3 @@
 # AdventOfCode2020
-Solutions to Advent of Code 2020 primarily using Python
+Hastily written :) solutions to Advent of Code 2020 primarily using Python
+- Not necessarily a reflection on my coding style, just whatever I can come up with in order to get a quick solution, with a lot of good practices thrown out the window....
